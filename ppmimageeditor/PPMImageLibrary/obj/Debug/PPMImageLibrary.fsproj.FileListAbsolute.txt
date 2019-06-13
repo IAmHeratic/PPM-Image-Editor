@@ -1,0 +1,6 @@
+C:\Users\josee\Documents\CS_341\PPMImageEditor\PPMImageEditor\PPMImageLibrary\bin\Debug\PPMImageLibrary.XML
+C:\Users\josee\Documents\CS_341\PPMImageEditor\PPMImageEditor\PPMImageLibrary\bin\Debug\PPMImageLibrary.dll
+C:\Users\josee\Documents\CS_341\PPMImageEditor\PPMImageEditor\PPMImageLibrary\bin\Debug\PPMImageLibrary.pdb
+C:\Users\josee\Documents\CS_341\PPMImageEditor\PPMImageEditor\PPMImageLibrary\obj\Debug\PPMImageLibrary.dll
+C:\Users\josee\Documents\CS_341\PPMImageEditor\PPMImageEditor\PPMImageLibrary\obj\Debug\PPMImageLibrary.pdb
+C:\Users\josee\Documents\CS_341\PPMImageEditor\PPMImageEditor\PPMImageLibrary\bin\Debug\FSharp.Core.dll
